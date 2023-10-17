@@ -1,0 +1,88 @@
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\user.exe.config
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\user.exe
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\user.pdb
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\DAO.exe
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\DTO.exe
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\DAO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\DTO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.exe
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.pdb
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.fTrangChu.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\BLL.exe
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\bin\Debug\BLL.exe.config
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.fNhaCC.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.fnhanVien.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.fSanPham.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.fKhachHang.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.fhoaDonNhap.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.fHoaDonBan.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.fThongKeNhap.resources
+C:\Users\nguye\OneDrive\Máy tính\new quan lý bán máy tính\user\obj\Debug\user.FthongKeXuat.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\user.exe.config
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\user.exe
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\user.pdb
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\BLL.exe
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DAO.exe
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DTO.exe
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\BLL.exe.config
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DAO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DTO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fHoaDonBan.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fhoaDonNhap.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fKhachHang.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fNhaCC.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fnhanVien.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fSanPham.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fThongKeNhap.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.FthongKeXuat.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fTrangChu.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.exe
+C:\Users\nguye\OneDrive\Máy tính\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.pdb
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\user.exe.config
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\user.exe
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\user.pdb
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fHoaDonBan.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fhoaDonNhap.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fKhachHang.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fNhaCC.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fnhanVien.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fSanPham.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fThongKeNhap.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.FthongKeXuat.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.fTrangChu.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.Properties.Resources.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.csproj.CopyComplete
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.exe
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.pdb
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.msTrangChu.resources
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\da Quan Ly may Tinh\new quan lý bán máy tính\user\obj\Debug\user.Login.resources
